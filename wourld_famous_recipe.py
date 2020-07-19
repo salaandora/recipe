@@ -6,3 +6,4 @@ for i in ingredients:
     temp = 1
     ing = str(temp) + ". " + i
     print(ing)
+    temp += 1
